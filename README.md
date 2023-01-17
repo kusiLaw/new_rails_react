@@ -204,7 +204,6 @@ If you like this project, you can feel free to add or support
 
 I would like to thank Microverse for this insight project
 
-I would like to thank [Gregoire Vella](https://www.behance.net/gallery/19759151/Snapscan-iOs-design-and-branding?tracking_source=) for the design ideas
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
