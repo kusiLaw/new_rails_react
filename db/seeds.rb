@@ -5,3 +5,8 @@
 #
 #   movies = Movie.create([{ name: "Star Wars" }, { name: "Lord of the Rings" }])
 #   Character.create(name: "Luke", movie: movies.first)
+Message.create(msg: 'Welcome every, this is my first rails-react app')
+Message.create(msg: 'Hello world, this is my first rails-react app')
+Message.create(msg: 'Welcome every, this is react to rails api')
+Message.create(msg: 'Hello, do you know that you create rails-react app ?')
+Message.create(msg: 'Welcome every. Thank you for testing my app')
